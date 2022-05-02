@@ -1,0 +1,15 @@
+{
+  "name": "socketio-chat-basic",
+  "version": "1.0.0",
+  "description": "Basic Socketio Chat",
+  "main": "app.js",
+  "repository": "https://github.com/jepra777/socketio-chat-basic.git",
+  "author": "jepra777 <jere.prasetyo.jp@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
